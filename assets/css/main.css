@@ -2882,12 +2882,13 @@
 
 /* One */
 
-	#one {
-		background: url("images/overlay.png"), url("https://goo.gl/wT5DXt");
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
-	}
+#one {
+    /*background: url("images/overlay.png"), url("https://goo.gl/wT5DXt");*/
+    background: url("images/overlay.png"), url("../../images/fulls/Smitam13.jpg");
+    background-size: 256px 256px, cover;
+    background-attachment: fixed, fixed;
+    background-position: top left, center center;
+}
 
 /* Two */
 
